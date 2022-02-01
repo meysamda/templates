@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Meysam Abasi",
+  "classifications": [ "Common", "WebApi", "EF", "Auth" ],
+  "identity": "LayeredWebApi.WithEFCoreAndAuth",
+  "name": "Layered webapi with EF Core and authorization",
+  "shortName": "l-webapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "$safeprojectname$"
+}
